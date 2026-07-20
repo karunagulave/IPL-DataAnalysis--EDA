@@ -1,5 +1,10 @@
-# IPL-DataAnalysis--EDA
 # 🏏 IPL Data Analysis & Exploratory Data Analysis (EDA)
+A Python-based application to manage IPL teams, players, match schedules, results, and points table efficiently.
+
+## 👩‍💻 About Me
+Hi, I'm Karuna Gulave from Pune, Maharashtra
+
+Python Developer | IPL Management System Project
 
 ## 📌 Project Overview
 
@@ -93,9 +98,8 @@ IPL-DataAnalysis--EDA/
 │   └── deliveries.csv
 │
 ├── IPL_EDA.ipynb
-├── images/
 ├── README.md
-└── requirements.txt
+
 ```
 
 ---
@@ -165,12 +169,11 @@ Open the notebook and run all cells.
 
 ---
 
-## 👩‍💻 Author
-
-**Karuna Gulave**
-
-- GitHub: 
-
+### 📫 Connect with Me
+Karuna Gulave 
+mobile no :9226458246
+- **GitHub:** https://github.com/karunagulave
+- **Email:**gulavekaruna83@gmail.com
 ---
 
 ## ⭐ If you found this project useful
